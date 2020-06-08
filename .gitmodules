@@ -1,0 +1,6 @@
+[submodule "ikemen-go-git"]
+	path = ikemen-go-git
+	url = ssh+git://aur@aur.archlinux.org/ikemen-go-git.git
+[submodule "openal119-bin"]
+	path = openal119-bin
+	url = ssh+git://aur@aur.archlinux.org/openal119-bin.git
